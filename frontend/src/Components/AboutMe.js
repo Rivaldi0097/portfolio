@@ -1,6 +1,5 @@
 import {useRef, useEffect, useState} from 'react';
-import { Box, Grid, Typography } from '@mui/material';
-import profilePic from '../img/profilePicture.jpg';
+import { Box, Typography } from '@mui/material';
 
 function AboutMe(props) {
 

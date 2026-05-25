@@ -1,12 +1,9 @@
-import React from 'react';
 import { 
     Box, 
     Typography,
     Card,
-    CardActions,
     CardContent,
     CardMedia,
-    Button,
     Grid
 } from '@mui/material';
 import smu from '../img/smu.jpeg';
