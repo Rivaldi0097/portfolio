@@ -35,7 +35,7 @@ function AboutMe(props) {
                 </Typography>
                 <br/>
                 <Typography variant='h6' align='center' sx={{fontSize:'1.5rem'}}>
-                    I am currently based in Singapore and had just completed my study with Singapore Management Univesity (SMU).
+                    I am currently based in Singapore and completed my study with Singapore Management Univesity (SMU).
                 </Typography>
             </Box>
         </Box>
